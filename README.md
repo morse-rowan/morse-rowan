@@ -9,23 +9,26 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td style="height: 250px; vertical-align: top;">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=morse-rowan&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github&theme=tokyonight&hide_border=true"
-          alt="stats"
-          width="440"
-        />
-      </td>
-      <td>
-        <img
-          src="https://streak-stats.demolab.com?user=morse-rowan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+          src="https://streak-stats.demolab.com?user=morse-rowan&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
           alt="streak"
           width="440"
+          height="250"
+        />
+      </td>
+      <td style="height: 250px; vertical-align: top;">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=morse-rowan&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&show=prs_merged&rank_icon=github&theme=tokyonight&hide_border=false&hide=issues,contribs&line_height=28"
+          alt="stats"
+          width="440"
+          height="250"
         />
       </td>
     </tr>
   </table>
 </div>
+
 
 <p align="center">
   <img
