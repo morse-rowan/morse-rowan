@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Rowan%20Morse&fontSize=32&fontAlign=16&fontAlignY=35&fontColor=ffffff&color=0:0f172a,50:1e3a8a,100:8b5cf6"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=𝚁𝚘𝚠𝚊𝚗%20𝙼𝚘𝚛𝚜𝚎&fontSize=32&fontAlign=16&fontAlignY=35&fontColor=ffffff&color=0:0f172a,50:1e3a8a,100:8b5cf6"
     alt="banner"
     width="940"
   />
